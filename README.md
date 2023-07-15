@@ -1,4 +1,4 @@
-# The Old classi Turtle Crossing game
+# The Old classic Turtle Crossing game
 
 $git clone the repo 
 
