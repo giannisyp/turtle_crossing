@@ -4,4 +4,4 @@ $git clone the repo
 
 $python main.py 
 
-and enjoy.
+and enjoy!
